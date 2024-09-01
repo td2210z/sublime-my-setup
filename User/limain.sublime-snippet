@@ -1,0 +1,42 @@
+<snippet>
+	<content><![CDATA[
+import java.io.*;
+import java.util.*;
+
+
+
+public class ${TM_FILENAME/(\.\w+)//g} {
+
+    public static final long MOD = 1_000_000_007;
+    public static final long INF = 1_000_000_007;
+
+
+    public static void main(String[] args) {
+        try {
+            System.setIn(new FileInputStream("input.in"));
+            System.setOut(new PrintStream(new FileOutputStream("output.out")));
+        } catch (Exception e) {
+            System.err.println("Error");
+        }
+        
+        //int t = cs.nextInt();
+        //for (int _ = 1 ; _ <= t ; i++){
+            //System.out.print("Case #"+_+": ");
+            new Solver();
+        //}       
+    }
+
+     static class Solver{
+         Solver(){
+            Scanner cs = new Scanner(System.in);
+
+            int n = cs.nextInt();
+         }
+     }
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>main1</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<<scope>source.java</scope>
+</snippet>

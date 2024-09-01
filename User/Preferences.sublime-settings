@@ -1,0 +1,22 @@
+{
+	//Cartograph CF
+	"color_scheme": "Packages/Out/Outrun22.tmTheme",
+	
+	/*Cartograph CF*/
+	"font_face": "Jetbrains Mono",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Meetio.sublime-theme",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"line_padding_bottom" : 8,
+	"line_padding_top" : 8,
+	"horizontal_menu_position": "right",
+	
+	"dark_color_scheme": "Celeste.sublime-color-scheme",
+	"light_color_scheme": "Meetio-Lighter.sublime-color-scheme",
+	"index_files": true,
+}

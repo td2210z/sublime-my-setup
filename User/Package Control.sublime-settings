@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"Aurora Color Scheme",
+		"CSS3",
+		"Discord Rich Presence",
+		"DocBlockr",
+		"Emmet",
+		"FileIcons",
+		"FileIcons Mono",
+		"Github Color Theme",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"JavaScript Console",
+		"MarkdownEditing",
+		"Meetio",
+		"Package Control",
+		"PackageResourceViewer",
+		"Seti_UI",
+		"SublimeLinter-clang",
+		"SublimeREPL",
+		"Theme - Monokai Pro",
+		"Theme - Spacegray",
+		"Transparency",
+		"Vintageous",
+	],
+}
